@@ -2,7 +2,7 @@
 
 ![Preview](.github/preview.png)
 
-Projeto construído doeventoNext Level Week da Rocketseat.
+Projeto construído do evento Next Level Week da Rocketseat.
 
 [Clique aqui para acessar](https://joelcsouza.github.io/NLW_ROCKETSEAT/)
 
